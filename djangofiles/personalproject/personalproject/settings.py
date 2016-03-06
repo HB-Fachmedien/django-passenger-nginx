@@ -103,7 +103,7 @@ STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, "static/plugin")
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
-    '/var/www/riqnaufal.com/personalproject/personalproject/static/',
+    '/var/www/riqnaufal.com/personalproject/static/',
 )
 
 STATICFILES_FINDERS = (

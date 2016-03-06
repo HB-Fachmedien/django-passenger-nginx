@@ -3,8 +3,12 @@
 # Step - step :
 
 - Install Nginx with Passenger as usual  : 
-([https://www.phusionpassenger.com/library/walkthroughs/basics/python/installation.html](https://www.phusionpassenger.com/library/walkthroughs/basics/python/installation.html))
-- After installation completed, you may create virtualhost of your domain, example : ([url](https://www.url.com))
+([https://www.phusionpassenger.com/library/install/nginx/install/oss/](https://www.phusionpassenger.com/library/install/nginx/install/oss/))
+- I choose Ubuntu 14.04
+([https://www.phusionpassenger.com/library/install/nginx/install/oss/trusty/](https://www.phusionpassenger.com/library/install/nginx/install/oss/trusty/))
+- After installation completed, you may check your passenger with type # passenger
+![check passenger](passenger-check.png "Check your passenger")
+- create virtualhost of your domain, example : ([url](https://www.url.com))
 - # ln -s /etc/nginx/sites-available/yourvirtualhost.com /etc/nginx/sites-enabled/yourvirtualhost.com
 - # service nginx reload
 - # service nginx restart

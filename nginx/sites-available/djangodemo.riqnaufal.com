@@ -7,7 +7,7 @@ server {
 
 	passenger_app_root /home/djangodemo.riqnaufal.com/django/personalproject; 
 	passenger_group www-data;
-	passenger_user ariq01; #make sure you have http://www.cyberciti.biz/faq/ubuntu-add-user-to-group-www-data/
+	passenger_user yourusername; #make sure you have http://www.cyberciti.biz/faq/ubuntu-add-user-to-group-www-data/
 	
 	#don't foget to create passenger_wsgi.py on where root files located
 	passenger_app_type wsgi;

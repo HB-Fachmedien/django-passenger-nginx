@@ -8,7 +8,7 @@
 ([https://www.phusionpassenger.com/library/install/nginx/install/oss/trusty/](https://www.phusionpassenger.com/library/install/nginx/install/oss/trusty/))
 - After installation completed, you may check your passenger with type # passenger
 ![check passenger](passenger-check.png "Check your passenger")
-- create virtualhost of your domain, example : ([url](https://github.com/ariq01/django-passenger-nginx/blob/master/nginx/sites-available/djangodemo.riqnaufal.com))
+- create virtualhost of your domain, example : ([example nginx conf](https://github.com/ariq01/django-passenger-nginx/blob/master/nginx/sites-available/djangodemo.riqnaufal.com))
 - # ln -s /etc/nginx/sites-available/yourvirtualhost.com /etc/nginx/sites-enabled/yourvirtualhost.com
 - # service nginx reload
 - # service nginx restart

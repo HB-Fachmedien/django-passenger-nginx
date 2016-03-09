@@ -13,7 +13,7 @@ Live Demo django : ([http://djangodemo.riqnaufal.com](http://djangodemo.riqnaufa
 
 The Ikhlas License (IKHLAS)
 
-Copyright (c) 2016 Allah S.W.T
+Copyright (c) Allah S.W.T
 
 Semua karya yang termasuk ke dalam license ini ialah gratis, semua orang boleh menyalin softcopy
 dari software ("Perangkat Lunak") ini. Berikut yang tidak diperbolehkan ketika memakai license ini :
@@ -24,9 +24,9 @@ dengan tujuan untuk berbuat MAKSIAT.
 Artinya: "Jika anak Adam meninggal, maka terputuslah semua amalnya kecuali dari tiga perkara, 
 shadaqah jariyah, ilmu yang bermanfaat dan anak shaleh yang mendoakannya" (HR. Muslim)
 -"Barangsiapa ditanya tentang suatu ilmu lalu dirahasiakannya maka 
-dia akan datang pada hari kiamat dengan kendali (di mulutnya) dari api neraka.” (HR. Abu Dawud)
--"Orang yang paling pedih siksaannya pada hari kiamat ialah seorang alim yang Allah 
-menjadikan ilmunya tidak bermanfaat.” (al-Baihaqi)
+dia akan datang pada hari kiamat dengan kendali (di mulutnya) dari api neraka." (HR. Abu Dawud)
+-Orang yang paling pedih siksaannya pada hari kiamat ialah seorang alim yang Allah 
+menjadikan ilmunya tidak bermanfaat. (al-Baihaqi)
 
 
 INGAT HAK CIPTA HANYALAH MILIK ALLAH S.W.T, PADA DASARNYA MANUSIA HANYA MENYALIN DAN MENGEMBANGKAN

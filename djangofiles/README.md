@@ -8,3 +8,8 @@
 - Collect the admin files (static) with # python manage.py collectstatic
 - and then # mv static/plugin/* static/
 - own it all files with # chown -R yourusername:www-data *
+
+
+
+- if you install new app on your django, you must # python manage.py collectstatic 
+  to get files of your new app

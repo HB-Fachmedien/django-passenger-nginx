@@ -98,12 +98,13 @@ USE_TZ = True
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/1.8/howto/static-files/
+# follow this gif >> https://ariq.naufal.uk/content/images/2016/12/settings.gif
 
 STATIC_URL = '/static/'
-STATIC_ROOT = os.path.join(BASE_DIR, "static/plugin")
+STATIC_ROOT = os.path.join(BASE_DIR, "static") #after collect static, comment this line and uncommend staticfiles_dirs
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, "static"),
-    '/var/www/riqnaufal.com/personalproject/static/',
+    '/var/www/riqnaufal.com/personalproject/static/', #comment this first before u going to collectstatic
 )
 
 STATICFILES_FINDERS = (
